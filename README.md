@@ -14,9 +14,9 @@
 
 :small_blue_diamond: [Desenvolvedores](#desenvolvedores)
 
-## Descrição do Projeto e Requisitos
+## Descrição do Projeto
 
-<>
+O código em questão é específico para contar o número de ocorrências de um modelo de carro em um mês especificado, coletando essas informações do site motor1.uol.com.br por meio de web scraping com a ajuda da biblioteca Puppeteer. O objetivo é coletar dados de "popularidade" de carros para fins de análise e relatórios, com base na lista de carros mais vendidos do mês fornecida pela Fenabrave.
 
 ## Ambiente de desenvolvimento
 
